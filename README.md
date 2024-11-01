@@ -27,7 +27,7 @@ This repository contains a comprehensive analysis of a dataset focused on mobile
 
 ## **Instructions**
 
-- Run the R scripts in `code/` to reproduce the results.
+- Run the R scripts in `code.r/` to reproduce the results.
 - Refer to the `report/` for an in-depth explanation of the process and results.
 
 ## **Data Source**
