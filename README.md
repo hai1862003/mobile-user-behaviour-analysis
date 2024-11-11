@@ -4,7 +4,7 @@ This repository contains a comprehensive analysis of a dataset focused on mobile
 
 ## **Project Overview**
 
-- To analyze and clean raw data sourced from [Kaggle](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset?resource=download&select=user_behavior_dataset.csv).
+- To analyze and clean raw data sourced from [Kaggle](https://www.kaggle.com/datasets/fatihyavuzz/smartphone-sales?select=smartphones.csv).
 - To build a robust linear regression model and explore the impact of adding additional variables and interactions.
 - To test hypotheses related to the model, check for multicollinearity, and validate assumptions through diagnostic tests.
 - To present findings with clear graphical representations and detailed interpretations.
@@ -32,7 +32,7 @@ This repository contains a comprehensive analysis of a dataset focused on mobile
 
 ## **Data Source**
 
-The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset?resource=download&select=user_behavior_dataset.csv).
+The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/fatihyavuzz/smartphone-sales?select=smartphones.csv).
 
 ## **Key Techniques and Concepts**
 
