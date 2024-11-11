@@ -1,0 +1,20 @@
+# Ignore RStudio project files
+.Rproj.user/
+
+# Ignore history and environment files
+.Rhistory
+.RData
+
+# Ignore temporary files
+.Ruser
+
+# Ignore logs
+*.log
+
+# Ignore R Markdown output files
+*.html
+*.pdf
+*.docx
+
+# Ignore backup files
+*.bak
